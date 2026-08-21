@@ -1,0 +1,14 @@
+# Node dependencies
+node_modules/
+
+# Sensitive Environment Variables
+.env
+
+# Frontend Build artifacts
+dist/
+build/
+
+# Temporary/Editor files
+.vscode/
+.idea/
+.DS_Store
