@@ -1,5 +1,5 @@
 const pdfParse = require('pdf-parse');
-
+// Function to parse PDF buffer and extract text
 const parsePdf = async (buffer) => {
   try {
     const data = await pdfParse(buffer);

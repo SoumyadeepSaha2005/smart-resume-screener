@@ -1,5 +1,7 @@
 const mongoose = require('mongoose');
 
+//Defining the schema for the Candidate model 
+
 const candidateSchema = new mongoose.Schema({
   fileName: String,
   jobDescription: String,

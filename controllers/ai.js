@@ -3,6 +3,8 @@ const { GoogleGenerativeAI } = require('@google/generative-ai');
 const genAI = new GoogleGenerativeAI(process.env.LLM_API_KEY);
 const model = genAI.getGenerativeModel({ model: "gemini-3.5-flash" });
 
+//Prompt to evaluate the resume against the job description and extract relevant information
+
 async function evaluateResume(resumeText, jobDescription) {
   const prompt = `Compare the following resume with this job description and rate fit on 1-100 with justification.
 Extract the candidate's skills, experience, and education.
