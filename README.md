@@ -13,7 +13,7 @@ The Smart Resume Screener streamlines recruitment by parsing PDF resumes, extrac
 
 This is the link to my Smart Resume Screener. Hope this demonstration helps to convey my Idea !!!
 
-https://drive.google.com/file/d/1bSkQojgrU9GuwEQvgf6mMFdqmxh5CVGV/view?usp=sharing
+https://drive.google.com/file/d/1aHgfRKZMCnGnJlrzsOYYzqBklKxY9zwI/view?usp=sharing
 
 
 ---
