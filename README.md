@@ -9,6 +9,14 @@ An automated resume evaluation pipeline that matches candidate profiles against 
 The Smart Resume Screener streamlines recruitment by parsing PDF resumes, extracting key qualifications (skills, education, and professional experience), and scoring each candidate against a provided job description. Evaluation results are stored in MongoDB and rendered in an interactive dashboard for comparison.
 
 ---
+## Video Demo Link
+
+This is the link to my Smart Resume Screener. Hope this demonstration helps to convey my Idea !!!
+
+https://drive.google.com/file/d/1bSkQojgrU9GuwEQvgf6mMFdqmxh5CVGV/view?usp=sharing
+
+
+---
 
 ## Key Features
 
